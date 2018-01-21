@@ -1,8 +1,10 @@
 #include<stdio.h>
 int main()
 {
-int a;
+int a=5;
   for(i=1;i<=5;i++)
-    d=i*a;
-printf("%d",d);
+  {
+    f=f*i;
+}
+  printf("%d",f);
 }
